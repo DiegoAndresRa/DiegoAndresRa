@@ -8,7 +8,7 @@
 
 ```java
 public void Hello(){
-  System.out.println("I'm exited to follow learning, thaks for visit my profile !");
+  System.out.println("I'm exited to follow learning, thanks for visit my profile !");
 }
 ```
 <h4>
