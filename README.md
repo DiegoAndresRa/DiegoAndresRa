@@ -1,5 +1,5 @@
 <h1 align="center">
-  Diego Andres <img src="https://raw.githubusercontent.com/DiegoAndresRa/PICTURES/main/wave.gif" width="40px">
+  Diego Andres
 </h1>
 
 <h3 align="center">
