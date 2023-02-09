@@ -8,9 +8,10 @@
 
 ```c
 #include<stdio.h>
+
 int main(){
-  printf("RW1vY2lvbmFkbyBkZSBzZWd1aXIgYXByZW5kaWVuZG8=")
-}
+  printf("RW1vY2lvbmFkbyBkZSBzZWd1aXIgYXByZW5kaWVuZG8=");
+  return 0;
 }
 ```
 <h4>
