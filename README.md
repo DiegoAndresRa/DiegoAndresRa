@@ -6,9 +6,11 @@
   he/him 🙂 |  Méxican 🇲🇽
 </h3>
 
-```java
-public void Hello(){
-  System.out.println("I'm exited to follow learning, thanks for visit my profile !");
+```c
+#include<stdio.h>
+int main(){
+  printf("RW1vY2lvbmFkbyBkZSBzZWd1aXIgYXByZW5kaWVuZG8=")
+}
 }
 ```
 <h4>
