@@ -1,5 +1,5 @@
 <h1 align="center">
-  Diego Andres
+  Diego Andres Ramirez Garcia
 </h1>
 
 <h3 align="center">
