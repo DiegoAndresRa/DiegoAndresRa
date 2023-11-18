@@ -1,22 +1,21 @@
-<h1 align="center">
-  Diego Andres Ramirez Garcia
-</h1>
+<h1 align="center">Hi, I'am Diego Ramirez</h1>
+<img align='right' src="https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/output-onlinegiftools.gif" width="200">
 
-<h3 align="center">
-  he/him 🙂 |  Méxican 🇲🇽
-</h3>
+<h3> About me </h3><hr>
+<p><em>Software Enginner at <a href="https://www.ingenieria.unam.mx">National Autonomous University of Mexico</a>🇲🇽</em></p>
 
-```c
-#include<stdio.h>
-
-int main(){
-  printf("RW1vY2lvbmFkbyBkZSBzZWd1aXIgYXByZW5kaWVuZG8=");
-  return 0;
+```javascript
+const Diego = {
+  pronouns: "he" | "him",
+  code: [C, Python, SQL, Rust,Java],
+  tools: [Vmware, Docker, Quemu],
+  challenge: "Learning managment SQL with C and Rust"
 }
 ```
-<h4>
-  A little more about me
-</h4>
 
-- I'm studying Computer Engineering 💻
-- Code: C, Java and Python 🐍
+<h3> Social networks </h3><hr>
+<div>
+ <a href="https://www.credly.com/users/diego-andres-ramirez-garcia/badges"><img align='center' src="https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/credly.png" alt="Credly:diego-andres-ramirez-garcia" width="40"></a>
+<a href="https://www.linkedin.com/in/diego-andres-ramirez-garcia/"><img align='center' src="https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/LinkedIN.png" alt="Linkedin:diego-andres-ramirez-garcia" width="40"></a>
+</div>
+
