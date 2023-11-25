@@ -35,6 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"  title="Azure" alt="Azure" width="40" height="35"/>&nbsp;
   <img src="https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/qemu.png" title="Qemu" alt="Qemu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/vmware.png" title="VMWare" alt="VMWare" width="40" height="35"/>&nbsp;
+  <img src='https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/SQL%20SERVER.png' title='SQL Server' width='40' height='40'/>&nbsp;
 </div>
 
 
