@@ -1,7 +1,7 @@
 <div align = 'center'>
     <img src = 'https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/TUX_chrismas.png' width= '350'>
     <div id="badges">
-      <a href="your-linkedin-URL">
+      <a href="https://www.credly.com/users/diego-andres-ramirez-garcia/badges">
         <img src="https://img.shields.io/badge/-diego andres-orange?style=flat-square&logo=Credly&logoColor=white" alt="Credly Badge"/>
       </a>
       <a href="https://www.linkedin.com/in/diego-andres-ramirez-garcia/">
