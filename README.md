@@ -12,7 +12,7 @@
 
 <img align='right' src="https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/output-onlinegiftools.gif" width="200">
 <h3> About me </h3><hr>
-<p><em>Software Enginner at <a href="https://www.ingenieria.unam.mx">National Autonomous University of Mexico</a>🇲🇽</em></p>
+<p><em>Software Enginner at <a href="https://www.ingenieria.unam.mx">Universidad Nacional Autónoma de México</a>🇲🇽</em></p>
 
 
 ```javascript
