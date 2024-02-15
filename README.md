@@ -1,5 +1,5 @@
 <div align = 'center'>
-    <img src = 'https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/TUX_chrismas.png' width= '350'>
+    <img src = 'https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/Images/LinuxImage.png' width= '350'>
     <div id="badges">
       <a href="https://www.credly.com/users/diego-andres-ramirez-garcia/badges">
         <img src="https://img.shields.io/badge/-diego andres-orange?style=flat-square&logo=Credly&logoColor=white" alt="Credly Badge"/>
@@ -10,7 +10,7 @@
     </div>
 </div>
 
-<img align='right' src="https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/output-onlinegiftools.gif" width="200">
+<img align='right' src="https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/Images/output-onlinegiftools.gif" width="200">
 <h3> About me </h3><hr>
 <p><em>Software Enginner at <a href="https://www.ingenieria.unam.mx">Universidad Nacional Autónoma de México</a>🇲🇽</em></p>
 
@@ -33,9 +33,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"  title="Azure" alt="Azure" width="40" height="35"/>&nbsp;
-  <img src="https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/qemu.png" title="Qemu" alt="Qemu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/vmware.png" title="VMWare" alt="VMWare" width="40" height="35"/>&nbsp;
-  <img src='https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/SQL%20SERVER.png' title='SQL Server' width='40' height='40'/>&nbsp;
+  <img src="https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/Images/qemu.png" title="Qemu" alt="Qemu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/Images/vmware.png" title="VMWare" alt="VMWare" width="40" height="35"/>&nbsp;
+  <img src='https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/Images/SQL%20SERVER.png' title='SQL Server' width='40' height='40'/>&nbsp;
 </div>
 
 
