@@ -24,20 +24,9 @@
 ```
 ### My skills include
 -----------
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"  title="Azure" alt="Azure" width="40" height="35"/>&nbsp;
-  <img src="https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/Images/qemu.png" title="Qemu" alt="Qemu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/Images/vmware.png" title="VMWare" alt="VMWare" width="40" height="35"/>&nbsp;
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,bash,python,react,js,linux,git,azure,docker,vim,regex" />
   <img src='https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/Images/SQL%20SERVER.png' title='SQL Server' width='40' height='40'/>&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' title='React' width='40' height='40'/>&nbsp;
-  <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg' title='JS' width='40' height='40'/>&nbsp;
 </div>
 
 
