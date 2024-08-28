@@ -23,7 +23,7 @@
 ### My skills include
 -----------
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,bash,python,react,js,linux,git,azure,docker,vim,regex" />
+  <img src="https://skillicons.dev/icons?i=swift,c,bash,python,java,react,js,linux,git,azure,docker,vim,regex" />
   <img src='https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/Images/SQL%20SERVER.png' title='SQL Server' width='40' height='40'/>&nbsp;
 </div>
 
