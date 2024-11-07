@@ -1,31 +1,29 @@
-<div align=center>
-    <img src='https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/Images/LinuxLogo.png' width= '250'>
-    <div>
-      <a href="https://www.credly.com/users/diego-andres-ramirez-garcia/badges">
-        <img src="https://img.shields.io/badge/-diego andres-orange?style=flat-square&logo=Credly&logoColor=white" alt="Credly Badge"/>
-      </a>
-      <a href="https://www.linkedin.com/in/diego-andres-ramirez-garcia/">
-        <img src="https://img.shields.io/badge/-diego andres-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-    </div>
-</div>
-
 <h3> About me </h3><hr>
 <p><em>Software Enginner at <a href="https://www.ingenieria.unam.mx">Universidad Nacional Autónoma de México</a>🇲🇽</em></p>
 
+<br>
+
+<div>
+    <p align=left><i>Fueled by a passion for innovation, I’m dedicated to overcoming challenges and creating solutions that make a difference. I enjoy working on both backend and
+        frontend solutions, focusing on optimizing code and designing scalable architectures. I believe in sharing knowledge and experiences, and I'm here to collaborate and learn
+        from others.
+    </i>
+    </p>
+    <br><br>
+    <img align=right src='https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/Images/Logo-Linux-Mind.png' width= '150'>
+</div>
 
 ```javascript
     const Diego = {
-      pronouns: "he" | "him",
-      passions: ["Coding", "Networking", "Ethical Hacking"]
+      passions: ["Coding", "Ethical Hacking"],
+      code: [C', 'Python', Javascript', Swift', 'Bash'],
+      lowCodeTools: ['Canva', 'Notion', 'Slack'],
+      cloud: 'Azure',
+      tools: ['React', 'Flask', 'Node', 'Vite'],
+      areas: ['Software Development', 'Cloud'],
     }
 ```
-### My skills include
------------
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=swift,c,bash,python,java,react,js,linux,git,azure,docker,vim,regex" />
-  <img src='https://github.com/DiegoAndresRa/DiegoAndresRa/blob/main/Images/SQL%20SERVER.png' title='SQL Server' width='40' height='40'/>&nbsp;
-</div>
+
 
 
 
