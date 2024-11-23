@@ -1,3 +1,4 @@
+<h1> <img src=https://i.pinimg.com/originals/10/94/23/109423f76102e5e8f703b70612aaa98b.gif width='50'> Hi, I'm Diego Ramirez </h1>
 <h3> About me </h3><hr>
 <p><em>Software Enginner at <a href="https://www.ingenieria.unam.mx">Universidad Nacional Autónoma de México</a>🇲🇽</em></p>
 
